@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and fill in your values
+
+project_id = "your-gcp-project-id"
+region     = "us-central1"
+
+# Supabase configuration
+supabase_url              = "https://your-project.supabase.co"
+supabase_service_role_key = "your-supabase-service-role-key"
